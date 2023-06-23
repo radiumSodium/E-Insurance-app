@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "parrot-ucgl",
+  "private_key_id": "16c088c296b7a1f824381827cbaa4be0c8700ecb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKeA16Rn2JiaiH\n2nSq3KgJOA/2r1VidR9b3ZqrfRjvxogeAjDNgOrpQ0L5r6shpPlpFHg2dn/IBsRx\nRB2vNjmSRzhjw9dLLqO3nwD/nUg7XjKHfTBKUcF6AJTAXG88guv3StMYNOEv2jVv\nw/enyylxSj/Uklxa5SUCCLouBnRgOoDuTe6TKEp3en3pVa0pxIhwN5uhOQlfLh7k\nPKzP3K0iLisTKszAHilvwOGL7OKSAkXN0pmsFo8z9ls3ckmZR17859pG6mvsCqG+\nTuBi/VuXXbtRV8BwdbZwPGHpMhC8APs8zBVnb6CRfMuxN3lg/HeVCMv5xGp8IupS\n0PQtmP0vAgMBAAECggEAQCtqgh2DPisd+ei330tOCpX1IUcStcDPLot+sOlWFPCE\nRZaGJyu7yDBkMsSFZYVm8vHk48YM27WhXxCqo9R4zK675Yq1WoOuqczAQUN1GDPT\nqfN4caWVv3gdrRXev3vzE45odxyTXlo3Y3Plsw2F1f0lW9cDZF+Jqipf76RmD/UK\nU/7gnxk+JQD1Y9dVhSCNQTLaQh4Kgh9lm3LK07irCXvWT/ifukdoxhzMj+Jk0FHQ\nMEquvI1MK+YOAYhfBB5SkV5qLjyl3R1pC8F/gW1DtkOWqgSDYW4AUB5o2QM/uRG+\n/eLVuCXcQTfbhyI+Fj0NjOgIR2QCM1gmsAH6zf7ZgQKBgQDvyyPdCgi/I099LqwJ\nrR9kUeD6d90BviMcpj65P+YDJIsCnkLCqlsIY7Ss903wtHgKvJzFSij+2owzy6wi\nD37LZtfAySFbsLftIjNItnBH/xwirxu9Hjme+NbP2dXmrfWlG9hWYs5FpmWAHlR/\nt5ndPQd9IJ+QhSrEvsde3UD+7wKBgQDYJyFiWaMb+5mjbqu94Y9uqZVh1jMqRbRb\nGz5FhDY59K2/Y7OgGsbZvcDE0o3N+pgjpg8z/vvD+culGlOc0/me/ZFB69YaFQ0L\nF2Yt7XHDTdKWQoeSZsNlty5xGRuY9mY+dQjZ6UMNdJxO824h+GxBga4/lbYE04ft\nq7FmrUPlwQKBgB31h1mKc2VOCBRfzGa5Fn72K+GfMCGTm9dsfdGvRhGGc0e0dirU\nFeOKcXxauYYlRgoxXnTXux98NqASBkOLJBBNnQ8dEenevlwGNdoT0RttqBo9Pn32\nVMSj2lLFqI/VlCc4v2KrnZHeJDhJkc0TJ0oY4eKkPMtVl+5U15vmkMRJAoGAZcI+\nODPk0vamxMcEOTcoNDvH5LBXlA4Os1lm/okYkj47Ub/ZP4V7meR4DPDm61KPLzEt\nNRhUZFWD5q03MbylZpEPQk6Jk+vXISKZ6wM+rGhFvJGDi4uvb4JGbd4ZHPDa/4pP\naW8kLwB32b9GWN2/8TLg2nRbpXgEJQLQWHs3XMECgYEAjW/iRTOvBLZgcUxelAKu\nfLV6rmFfv1kFGfYRM5BscZNPplOVYPkO37QldmR+Sm48+jaDxJRdhJEnYzgb6Pfv\nKEkwVPAvn3utQupzX7wXbojep4+QDLP+AO9y8TwMLs0RMbgqll8yrNRLa+fWLiBF\nHmo+dXjLG9Wf/SrKOq+xOzk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "insurancechatbot@parrot-ucgl.iam.gserviceaccount.com",
+  "client_id": "104742981359311982065",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/insurancechatbot%40parrot-ucgl.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

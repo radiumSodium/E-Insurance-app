@@ -1,16 +1,18 @@
-# insuranceapp
+# E-INSURANCE app made in Flutter
 
-A new Flutter project.
 
-## Getting Started
+## A fully functional app that runs Google Map, Emergency services, Complete authentication and Chat bot
 
-This project is a starting point for a Flutter application.
+This app is made with love in flutter. This app was for a college project and we done some features that made us learn a lot because this app has features like: 
 
-A few resources to get you started if this is your first Flutter project:
+* Login and Sign up page.
+* Complete profile with profile picture upload.
+* Chat Bot that can answer questions to users.
+* Google map integration.
+* Ambulance service and Towing service.
+* Emergency call to 999.
+* Firestrore database integration. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+and much more.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+

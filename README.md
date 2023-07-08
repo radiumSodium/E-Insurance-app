@@ -1,5 +1,4 @@
 # E-INSURANCE app made in Flutter
-<h1 style="color: lightblue;">E-INSURANCE app made in Flutter</h1>
 
 
 ## A fully functional app that runs Google Map, Emergency services, Complete authentication and Chat bot

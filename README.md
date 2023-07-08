@@ -16,7 +16,7 @@ This app is made with love in flutter. This app was for a college project and we
 and much more.
 
 ## Image preview of the app
-| Login and Map | Dashboard and map| Chat bot and 999|
+| Login and Map | Dashboard and Complete profile| Chat bot and 999|
 | --- | --- | --- |
 | ![login image](/forDecoration/1.jpg) | ![login image](/forDecoration/2.jpg) | ![login image](/forDecoration/3.jpg) |
 | ![login image](/forDecoration/4.jpg) | ![login image](/forDecoration/5.jpg)  | ![login image](/forDecoration/6.jpg) |

@@ -20,3 +20,9 @@ and much more.
 | --- | --- | --- |
 | ![login image](/forDecoration/1.jpg) | ![login image](/forDecoration/2.jpg) | ![login image](/forDecoration/3.jpg) |
 | ![login image](/forDecoration/4.jpg) | ![login image](/forDecoration/5.jpg)  | ![login image](/forDecoration/6.jpg) |
+
+
+## Developers
+* Md. Sojibul Islam Rana
+* Akash Ghosh 
+* Azizul Alam Prottoy

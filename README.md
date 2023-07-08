@@ -23,6 +23,6 @@ and much more.
 
 
 ## Developers
-* Md. Sojibul Islam Rana
-* Akash Ghosh 
+* <a href="https://github.com/radiumSodium">Md. Sojibul Islam Rana </a>
+* <a href="https://github.com/akashghosh20">Akash Ghosh </a>
 * Azizul Alam Prottoy
